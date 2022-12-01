@@ -2,7 +2,7 @@
 
 ## Who am I? 🤔 
 
-* I'm a Full Stack Engineer currently working in a multi-chain NFT ecosystem focused on inspiring social impact called <a href="doingud.com" target="_blank">Doingud</a>.
+* I'm a Full Stack Engineer currently working in a DeFi protocol called <a href="https://archimedesfi.com/" target="_blank">ArchimedesFi</a>.
 * Always looking for the opportunity to learn, collaborate and grow no matter the technologies involved.
 * Love sports (specially ⚽️ and 🏀), playing videogames, traveling and chatting pretty much about anything.
 
