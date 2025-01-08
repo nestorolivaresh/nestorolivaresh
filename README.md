@@ -2,7 +2,7 @@
 
 ## Who am I? 🤔 
 
-* I'm a Full Stack Engineer currently working in a DeFi protocol called <a href="https://archimedesfi.com/" target="_blank">ArchimedesFi</a>.
+* I'm a Frontend Engineer. Currently a part of the <a href="https://www.gelato.network/" target="_blank">Gelato</a> team.
 * Always looking for the opportunity to learn, collaborate and grow no matter the technologies involved.
 * Love sports (specially ⚽️ and 🏀), playing videogames, traveling and chatting pretty much about anything.
 
