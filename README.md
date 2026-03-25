@@ -34,7 +34,7 @@
 * LinkedIn: <a rel="nofollow" href="https://linkedin.com/in/nestorolivaresh">nestorolivaresh</a>
 * Email: nestorolivares8@gmail.com
 
-If you'd like to read a little bit more about my experience overall, here you can find my <a rel="nofollow" href="https://drive.google.com/file/d/1L0Allf7kOKami_amcVL4-ySp8HOxZRBD/view?usp=sharing">resume</a> 📄
+If you'd like to read a little bit more about my experience overall, here you can find my <a rel="nofollow" href="https://drive.google.com/file/d/10RNtnH96dARvqynMPoKjV8A4ubtz8xRT/view?usp=sharing">resume</a> 📄
 
 <!--
 **nestorolivaresh/nestorolivaresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
