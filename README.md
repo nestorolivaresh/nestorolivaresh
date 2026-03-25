@@ -4,7 +4,7 @@
 
 * I'm a Frontend Engineer. Currently part of the <a href="https://www.gelato.network/" target="_blank">Gelato</a> team.
 * Always looking for the opportunity to learn, collaborate and grow no matter the technologies involved.
-* Love sports (specially ⚽️ and 🏀), playing videogames, traveling and chatting pretty much about anything.
+* Love sports (specially 🎾), playing videogames, traveling and chatting pretty much about anything.
 
 ## What's my skill set? 💻
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="max-width: 100%;" width="40" height="40"> </a> 
