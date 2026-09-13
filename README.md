@@ -2,7 +2,7 @@
 
 ## Who am I? 🤔 
 
-* I'm a Frontend Engineer. Currently part of the <a href="https://www.gelato.network/" target="_blank">Gelato</a> team.
+* I'm a Software Engineer. Currently part of the <a href="https://www.arrakis.finance/" target="_blank">Arrakis</a> team.
 * Always looking for the opportunity to learn, collaborate and grow no matter the technologies involved.
 * Love sports (specially 🎾), playing videogames, traveling and chatting pretty much about anything.
 
