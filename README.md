@@ -1,18 +1,37 @@
-It's me, Néstor 🦖
-Who am I? 🤔
-I'm a Software Engineer. Currently part of the <a href="https://www.arrakis.finance/" target="_blank">Arrakis</a> team.
-Always looking for the opportunity to learn, collaborate and grow no matter the technologies involved.
-Love sports (specially 🎾), playing videogames, traveling and chatting pretty much about anything.
-What's my skill set? 💻
-
-<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://www.javascript.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width: 100%;" width="40" height="40"> </a> <br /> <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://nextjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" alt="next" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://styled-components.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" style="max-width: 100%;" width="40" height="40"> </a>
-<br /> <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://expressjs.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://graphql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://posthog.com/" rel="nofollow"> <img src="https://github.com/posthog.png?size=80" alt="posthog" style="max-width: 100%;" width="40" height="40"> </a> <br /> <a href="https://metamask.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/MetaMask/metamask-extension/main/app/images/logo/metamask-fox.svg" alt="metamask" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://viem.sh/" rel="nofollow"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/viem/main/.github/gh-logo-dark.svg"> <img src="https://raw.githubusercontent.com/wevm/viem/main/.github/gh-logo-light.svg" alt="viem" style="max-width: 100%;" height="40"> </picture> </a> <a href="https://wagmi.sh/" rel="nofollow"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/wagmi/main/.github/logo-dark.svg"> <img src="https://raw.githubusercontent.com/wevm/wagmi/main/.github/logo-light.svg" alt="wagmi" style="max-width: 100%;" height="40"> </picture> </a> <a href="https://docs.ethers.io/v5/" rel="nofollow"> <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethersjs" style="max-width: 100%;" width="60" height="40"> </a> <a href="https://web3js.readthedocs.io" rel="nofollow"> <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3js" style="max-width: 100%;" width="38px"> </a> <a href="https://safe.global/" rel="nofollow"> <img src="https://github.com/safe-global.png?size=80" alt="safe" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://www.fireblocks.com/" rel="nofollow"> <img src="https://github.com/fireblocks.png?size=80" alt="fireblocks" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://ceramic.network/" rel="nofollow"> <img src="https://assets.website-files.com/609ab8eae6dd417c085cc925/609b2ba76d637745d781160e_logo-ceramic.png" alt="ceramic" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://hardhat.org" rel="nofollow"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" style="max-width: 100%;" width="32px"> </a> <a href="https://soliditylang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg" alt="solidity" style="max-width: 100%;" width="40" height="40"> </a>
-
-Where to find me? 📞✉️
-Discord: nestorolivaresh#3341
-Telegram: <a rel="nofollow" href="https://t.me/nestorolivaresh">nestorolivaresh</a>
-Twitter: <a rel="nofollow" href="https://twitter.com/neoh_dev">neoh_dev</a>
-LinkedIn: <a rel="nofollow" href="https://linkedin.com/in/nestorolivaresh">nestorolivaresh</a>
-Email: nestorolivares8@gmail.com
-
+# It's me, Néstor 🦖
+ 
+## Who am I? 🤔
+ 
+* I'm a Software Engineer. Currently part of the <a href="https://www.arrakis.finance/" target="_blank">Arrakis</a> team.
+* Always looking for the opportunity to learn, collaborate and grow no matter the technologies involved.
+* Love sports (specially 🎾), playing videogames, traveling and chatting pretty much about anything.
+## What's my skill set? 💻
+ 
+**Languages**
+ 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript, JavaScript" /></a>
+ 
+**Frontend**
+ 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents" alt="React, Next.js, Redux, styled-components" /></a>
+ 
+**Backend**
+ 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb" alt="Node.js, Express, GraphQL, MongoDB" /></a>
+ 
+**Web3**
+ 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" /></a> <a href="https://viem.sh/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/viem/main/site/public/icon-dark.png"><img src="https://raw.githubusercontent.com/wevm/viem/main/site/public/icon-light.png" alt="viem" height="48"></picture></a> <a href="https://wagmi.sh/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/wagmi/main/.github/logo-dark.svg"><img src="https://raw.githubusercontent.com/wevm/wagmi/main/.github/logo-light.svg" alt="wagmi" height="40"></picture></a> <a href="https://safe.global/"><img src="https://github.com/safe-global.png?size=96" alt="Safe" width="48" height="48"></a> <a href="https://www.fireblocks.com/"><img src="https://github.com/fireblocks.png?size=96" alt="Fireblocks" width="48" height="48"></a>
+ 
+**Tools & Analytics**
+ 
+<a href="https://posthog.com/"><img src="https://github.com/posthog.png?size=96" alt="PostHog" width="48" height="48"></a>
+ 
+## Where to find me? 📞✉️
+ 
+* Discord:  nestorolivaresh#3341
+* Telegram:  <a rel="nofollow" href="https://t.me/nestorolivaresh">nestorolivaresh</a>
+* Twitter: <a rel="nofollow" href="https://twitter.com/neoh_dev">neoh_dev</a>
+* LinkedIn: <a rel="nofollow" href="https://linkedin.com/in/nestorolivaresh">nestorolivaresh</a>
+* Email: nestorolivares8@gmail.com
 If you'd like to read a little bit more about my experience overall, here you can find my <a rel="nofollow" href="https://nestorolivaresh.com">portfolio</a> 📄
